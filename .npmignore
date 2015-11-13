@@ -5,6 +5,7 @@
 /docs/
 /examples/
 /test/
+/.babelrc
 /.eslint*
 /.flowconfig
 /.gitignore
